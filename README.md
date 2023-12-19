@@ -30,7 +30,7 @@
 5. 예측 결과 시각화 및 결과 분석
 
 ## 🎁 분석 결과
-
+<img width="835" alt="분석결과" src="https://github.com/dayeon430/2023-2-PSAT-team-timeseries/assets/136339661/1253c348-0fab-4f30-b639-665ad12c3205">
 
 ## 🌟 기대효과
 1. 악플 생성량 감소
